@@ -1,8 +1,11 @@
-# qqmusic
+# 仿QQ音乐WebApp
 
-> A Vue.js project
+> Vue+Vuex
 
-## Build Setup
+## 长这样
+![](http://ox0uo3p10.bkt.clouddn.com/QQ%E9%9F%B3%E4%B9%90.gif)
+
+## 安装步骤
 
 ``` bash
 # install dependencies
@@ -17,5 +20,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+### 喜欢的朋友，可以来个Star～
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
